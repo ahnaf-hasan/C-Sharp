@@ -1,0 +1,12 @@
+using System;
+
+namespace WELCOME
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.WriteLine("WELCOME");    
+    }
+  }
+}
